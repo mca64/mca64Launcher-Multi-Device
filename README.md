@@ -1,4 +1,6 @@
-Wczesna wersja. Plik .apk na Androida można sciągnać tutaj:
+Wczesna wersja (05 X 2014) 
+
+Plik .apk na Androida można ściągnąć tutaj:
 
 http://mca64.com
 
