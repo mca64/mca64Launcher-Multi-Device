@@ -1,4 +1,4 @@
-Windows, Android, iOS i OS X (Delphi XE 7)
+Wczesna wersja. Plik .apk na Androida można sciągnać tutaj:
 
 http://mca64.com
 
